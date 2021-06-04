@@ -12,5 +12,5 @@ docker-compose up
 
 4. Visit prometheus: http://localhost:9090
 
-5. Visit grafana: http://localhost:3000,username/password = admin/admin, you also need to config the prometheus server url(e.g. in this
+5. Visit grafana: [http://localhost:3000](http://localhost:3000): username/password = admin/admin, you also need to config the prometheus server url(e.g. in this
    case: http://{your-host-ip-not-localhost}:9090) as a datasource.
