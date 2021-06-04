@@ -1,4 +1,4 @@
-# prometheus_grafana
+# prometheus + grafana + golang
 
 1. Update your local machine ip in `./prometheus.yaml`
 2. Make sure you already have a local application startup with prometheus metrics exporter(usually done with official
