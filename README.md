@@ -2,7 +2,7 @@
 
 1. Update your local machine ip in `./prometheus.yaml`
 2. Make sure you already have a local application startup with prometheus metrics exporter(usually done with official
-   prometheus client sdk and coding embed in your application)
+   prometheus client sdk and coding embed in your application, and the http exported port is 2112)
 
 3. To startup locally
 
