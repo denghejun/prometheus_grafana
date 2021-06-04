@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05e33dbb-1bfd-4036-aa9d-26bf0139e03e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana-storage/grafana.db" beforeDir="false" afterPath="$PROJECT_DIR$/grafana-storage/grafana.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update config file and README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update config file and README.md" />
+    <MESSAGE value="add main go" />
+    <MESSAGE value="add vendor" />
+    <option name="LAST_COMMIT_MESSAGE" value="add vendor" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>

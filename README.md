@@ -17,7 +17,7 @@ docker-compose up
    first time you startup grafana.
 
 
-6. start current mock go application
+6. start current mock go application (with one simple prometheus metrics)
 
 ```
 go run main.go
