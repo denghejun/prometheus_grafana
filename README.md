@@ -13,4 +13,4 @@ docker-compose up
 4. Visit prometheus: http://localhost:9090
 
 5. Visit grafana: http://localhost:3000, you also need to config the prometheus server url(e.g. in this
-   case: http://localhost:9090) as a datasource.
+   case: http://{your-host-ip-not-localhost}:9090) as a datasource.
